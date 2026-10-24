@@ -53,3 +53,9 @@ Kibana Discover was used to investigate alerts, and a log threshold rule named `
 
 ## Disclaimer
 This lab is intended for authorized testing in a controlled virtual environment only.
+
+## Snort Dashboard
+
+The dashboard visualizes Snort alerts over time, common alert types, and source IP activity.
+
+![Snort Dashboard](snort-dashboard.png)
