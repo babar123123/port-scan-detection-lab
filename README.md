@@ -58,4 +58,4 @@ This lab is intended for authorized testing in a controlled virtual environment 
 
 The dashboard visualizes Snort alerts over time, common alert types, and source IP activity.
 
-![Snort Dashboard](snort-dashboard.png)
+![Snort Dashboard](screenshots/snort-dashboard.png)
