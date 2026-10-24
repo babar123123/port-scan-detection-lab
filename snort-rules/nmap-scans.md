@@ -25,14 +25,14 @@ sudo nmap -sN -p 1-100 TARGET_IP
 ```
 
 ## 5. TCP Xmas Scan
-
+```bash
 sudo nmap -sX -p 1-100 TARGET_IP
-
+```
 
 ## 6. UDP Scan
-
+```bash
 sudo nmap -sU -p 1-100 TARGET_IP
-
+```
 
 ## Validation
 After each test, review the Snort alert log and Kibana Discover to check which signatures fired.
